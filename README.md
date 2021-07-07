@@ -7,6 +7,6 @@ C++ implementation with OpenCV library
 > ubuntu 18.04
 
 ## Usage 
-> make //compile
+> make /*compile*/
 > 
-> ./edge_detector <test image file name>
+> ./edge_detector "test image file name"
