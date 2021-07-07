@@ -1,10 +1,11 @@
 # CV-object_extraction
 C++ implementation with OpenCV library
 
-# environment
+# Environment
 > opencv4
 > ubuntu 18.04
 
-## usage 
+## Usage 
 > make //compile
+> 
 > ./edge_detector <test image file name>
